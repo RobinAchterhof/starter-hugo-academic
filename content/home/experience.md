@@ -37,7 +37,7 @@ experience:
         * Deploying
         
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: University Z
     company_url: ''
     company_logo: org-x
     location: California
