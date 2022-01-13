@@ -1,39 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Robin Achterhof
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher in Biomedical Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: KU Leuven
+  url: https://www.kuleuven.be/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include biomedical sciences
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biomedical Sciences
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Sciences
+    institution: KU Leuven
+    year: 2022
+  - course: Research Master Behavioural and Social Sciences
+    institution: University of Groningen
+    year: 2017
+  - course: Research Traineeship
+    institution: University of Canterbury, New Zealand
+    year: 2016
+  - course: Minor Philosophy + additional philosophy courses
+    institution: University of Groningen
+    year: 2014
+  - course: Bachelor of Science, Psychology
+    institution: University of Groningen
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +50,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: fas
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/profile/Robin-Achterhof
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/robin-achterhof-71a11459/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +75,13 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As a researcher trained in clinical psychology, I am interested in what it means to be social, and how
+being social relates to well-being. I am driven by the tackling of challenging research questions with
+methodological rigour and transparency, and I enjoy the communication of my work to a broader
+audience.
+Within my current PhD project, I am primarily involved in the SIGMA project, a longitudinal cohort
+study that is unique for its large-scale data collection in the daily lives of 1913 Flemish adolescents.
+My specific aim in this project is to explore the relevant social processes in daily life as they relate to
+parenting and psychopathology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
