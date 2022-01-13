@@ -6,18 +6,24 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Collip, D
+- Viechtbauer W.
+- Kirtley O.
+- Gunther N.
+- van Os J.
+- Feron F.
+- Myin-Germeys, I. 
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2019-07-02T00:00:00Z"
+doi: "10.1111/acps.13069"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-07-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +32,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Acta Psychiatrica Scandinavica
+publication_short: Acta Psychiatrica Scandinavica
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Objectives
+To investigate the longitudinal relationship between subclinical psychotic symptoms and social functioning in a representative general population sample of adolescents.
+Method
+Data were derived from a routine general health screening of 1909 adolescents in a circumscribed region. Baseline measurement was in the second grade of secondary school (T0), and follow-up occurred approximately 2 years later (T1). Social functioning and subclinical psychotic symptoms of hallucinations and delusions were assessed at both time points.
+Results
+Baseline (T0) social problems preceded follow-up (T1) subclinical delusions, but not T1 subclinical hallucinations. Similarly, T0 delusions preceded social problems at T1, but T0 hallucinations did not.
+Conclusion
+This longitudinal general population study demonstrated a bidirectional association between social problems and delusions, but found no link between social problems and hallucinations. This may reflect a downward negative spiral where delusional thoughts and social problems reinforce each other.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
