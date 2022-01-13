@@ -45,7 +45,7 @@ Conclusion
 This longitudinal general population study demonstrated a bidirectional association between social problems and delusions, but found no link between social problems and hallucinations. This may reflect a downward negative spiral where delusional thoughts and social problems reinforce each other.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: To investigate the longitudinal relationship between subclinical psychotic symptoms and social functioning in a representative general population sample of adolescents.
 
 tags: []
 
