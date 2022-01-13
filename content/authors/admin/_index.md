@@ -53,7 +53,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=7YIEaSAAAAAJ&hl=nl
 - icon: graduation-cap
   icon_pack: fab
   link: https://www.researchgate.net/profile/Robin-Achterhof

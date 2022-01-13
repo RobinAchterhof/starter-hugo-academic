@@ -51,13 +51,13 @@ social:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=7YIEaSAAAAAJ&hl=nl
+- icon: graduation-cap
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/profile/Robin-Achterhof
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/robin-achterhof-71a11459/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
