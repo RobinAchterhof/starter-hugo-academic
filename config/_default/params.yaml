@@ -20,23 +20,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: robin.achterhof@kuleuven.be 
+email: robin.achterhof@kuleuven.be
 phone: +32 476 038537
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Oude Markt 13
+  city: Leuven
+  region: Leuven
   postcode: '94305'
-  country: United States
+  country: Belgium
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -46,14 +46,14 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -77,6 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
+  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -141,7 +143,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: mapnik
   api_key: ''
   zoom: 15
 marketing:
@@ -155,4 +157,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
